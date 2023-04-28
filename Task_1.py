@@ -1,8 +1,8 @@
 import math
 
 # # 1-1
-# x, y = int(input()), int(input())
-# print(x + y, x * y)
+x, y = int(input()), int(input())
+print(x + y, x * y)
 
 # 1-2 1-3
 x, y = float(input()), float(input())
